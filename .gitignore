@@ -2,5 +2,6 @@
 TestResults
 bin
 obj
-*.DotSettings
+*.DotSettings.user
 *.nupkg
+.vs/
